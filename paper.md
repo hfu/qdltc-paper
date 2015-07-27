@@ -126,7 +126,7 @@ rsync コマンドを用いた場合，ダウンロード元とダウンロー�
 - ローカル側で MD5SUM をキャッシュする
 
 ## 今後の展開
-mokuroku の更新頻度を上げる．つまりオリジン側でもMD5SUMキャッシュをど運輸する必要があろう．
+mokuroku の更新頻度を上げる．つまりオリジン側でもMD5SUMキャッシュを運用する必要があろう．
 
 layers.txtからmokurokuへ，mokurokuからcocotileとoctpngへ，後戻りしないカスケードプロセス化．
 
